@@ -1,4 +1,3 @@
+# Techniques of Prolog Programming
 
-# Techniques of Prolog Programming Exercies
-
-Exercies from the book.
+Exercises from the book.
